@@ -73,3 +73,11 @@
 | Sistema de Votação    | [Draw.io](/cases/turma-1/T1-Case-Vota-AI.drawio.xml)                  |
 | Sistema de Leilão     | [Draw.io](/cases/turma-1/T1-Case-Leilao.drawio)                       |
 | Ledger REST           | [Draw.io]()                        |
+
+
+### Turma 02 - Descomplicando o System Design 
+
+| Case                  | Link                                                                  |
+|-----------------------|-----------------------------------------------------------------------|
+| Encurtador de Links   | [Draw.io](/cases/turma-2/T2-Case-Encurtador-de-Links.drawio)          |
+| E-Commerce   | [Draw.io](/cases/turma-2/T2-Case-Busca-Ecommerce.drawio)                       |
