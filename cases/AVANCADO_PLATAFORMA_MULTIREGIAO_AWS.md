@@ -1,7 +1,9 @@
 # Titulo: Plataforma Multi-Região em Kubernetes
 
 Plataforma Kubernetes Multi-Region e Multi-Cluster na AWS para Workloads Críticos
+
 Nivel: AVANCADO
+
 Temas: Kubernetes, Engenharia de Plataforma, AWS, EKS, Multi-Region, Multi-Cluster, Resiliência, Disaster Recovery, GitOps, Governança, Observabilidade, Exposição de Tráfego, Continuidade Operacional, Rolling Upgrades de Plataforma, Platform as a Product
 
 ---
