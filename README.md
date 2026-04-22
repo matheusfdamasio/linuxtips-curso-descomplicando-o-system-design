@@ -82,3 +82,4 @@
 | Encurtador de Links   | [Draw.io](/cases/turma-2/T2-Case-Encurtador-de-Links.drawio)          |
 | E-Commerce            | [Draw.io](/cases/turma-2/T2-Case-Busca-Ecommerce.drawio)              |
 | Pedidos SAGA          | [Draw.io](/cases/turma-2/T2-Case-SAGA.drawio)                         |
+| Spikes de Promoção    | [Draw.io](/cases/turma-2/T2-Delivery.drawio.xml)                      |
